@@ -1,1 +1,1 @@
-# MiniShare-1.4.1-Remote-Buffer-Overflow
+MiniShare 1.4.1 remote buffer overflow leading to RCE.
